@@ -1,0 +1,30 @@
+[
+    {
+        "Metric": "Goal and Info",
+        "Goal": "Cutting",
+        "Height": 69.0,
+        "Weight": 190.0,
+        "Age": 19.0
+    },
+    {
+        "Metric": "Recommended",
+        "Calories": 1859.69,
+        "Protein": 152.0,
+        "Carbs": 190.0,
+        "Fat": 38.0
+    },
+    {
+        "Metric": "Goal",
+        "Calories": 2000,
+        "Protein": 150,
+        "Carbs": 200,
+        "Fat": 45
+    },
+    {
+        "Metric": "Intake",
+        "Calories": 3500,
+        "Protein": 100,
+        "Carbs": 130,
+        "Fat": 180
+    }
+]
